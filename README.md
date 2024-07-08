@@ -7,4 +7,4 @@ an ETL for Mozilla phabricator instance
 `apt install build-essential python3-dev default-libmysqlclient-dev`
 
 ### python
-`pip install -r requirements`
+`pip install -r requirements.txt`
